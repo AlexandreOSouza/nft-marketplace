@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# Metaverse Marketplace
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+![Screen Shot 2022-08-17 at 20 10 13](https://user-images.githubusercontent.com/41930085/185259246-71a79dc4-6365-473a-a8d6-91aec659bbbc.png)
